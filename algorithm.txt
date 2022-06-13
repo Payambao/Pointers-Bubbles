@@ -1,0 +1,5 @@
+For the Blackbelt, I redid the base program in C++; however, I used insertion sort instead of bubble sort.
+In order to compile the correct program, it should be ./sort.
+
+I also tried to make another version of the base assignmen in C++ and using classes and trying out makefile, but I encountered too many errors.
+When I tried to fix one error, I will just get more errors and so after many attempts, I just abandoned the mission.
